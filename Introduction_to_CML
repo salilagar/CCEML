@@ -1,0 +1,77 @@
+Computational Intelligence
+Pseudonyms – Natural Computing, Nature Inspired Computing, Soft Computing, Adaptive Systems
+Set of nature inspired computational methodologies and approaches to address complex real-world problems to which,
+Mathematical / Traditional modelling can be useless
+Process is too complex for mathematical reasoning
+Contain uncertainties
+Stochastic (random) in nature
+Cannot be translated to binary language (0, 1 and true, false)
+first clear definition of Computational Intelligence was introduced by Bezdek in 1994
+Ability of computer/system to learn a specific task from data or experimental observation – only based on numerical data or pattern recognition, doesn’t use knowledge in pure AI sense. Computational Intelligence is thus a way of performing like human beings - Much closer to the way the human brain works by aggregating data to partial truths.
+
+Properties
+Adaptivity
+Fault tolerance
+Speed - human-like turn around
+Error – Approximate human performance
+Methods used – close to human’s way of reasoning, inexact and incomplete knowledge, control actions in adaptive way
+Identify simple mechanisms to produce good solutions rather than producing complex mechanisms to produce an optimal solution
+Adaptation to environment, incremental improvement in performance.
+Use heuristics and simple rules with complex emergent behaviour
+
+Contributing techniques – Fuzzy logic, Neural Networks, Evolutionary Computing, Learning theory, Probabilistic Methods.
+Although Artificial Intelligence and Computational Intelligence seek a similar long-term goal - to reach general intelligence, 
+there's a clear difference between them. According to Bezdek (1994), Computational Intelligence is a subset of Artificial Intelligence.
+ 
+AI
+Hard computing
+Binary language
+Logic based
+Either true/false
+Exclusive
+CI
+Soft computing
+Natural
+Aggregation of partial truths
+Partially in set / Degree of membership
+Not exclusive
+
+Machine Learning - coined in 1959 by Arthur Samuel
+Ability to learn – progressively increase/improve performance on a specific task, with data without being explicitly programmed.
+Ability to improve behaviour based in experience
+Tom M Mitchell (More of an operational definition as opposed to cognitive terms)
+A computer program is said to learn from experience E with respect to some class of task T and Performance Measure P, if its performance P at task T, improves with Experience E.
+The objective of the learner is to generalize from its experience
+This follows Alan Turing's proposal (in paper 'Computing Machinery and Intelligence'), in which the question "Can machines think?" is replaced with the question "Can machines do what we can do?
+It explores the study and construction of algorithms that can learn from and make predictions on data.
+It leads to paradigm shift in programming, static program instructions to making data-driven prediction/decisions through building model from simple inputs
+It is used when/where designing and programming explicit algorithms with performance is difficult or infeasible
+Application – classification, Regression, clustering
+Key elements
+Representation
+Hypothesis
+Instance Space
+Instance
+Evaluation
+Optimization
+
+Types of ML
+Supervised/Inductive
+Unsupervised
+Semi supervised
+Reinforcement
+
+Issues in ML
+Good hypothesis
+Algorithm that works with hypothesis space
+How to optimize
+Confidence
+Computational intractability
+Overfitting – low bias, high variance, low training error, high test error
+Underfitting – low bias, low variance, high training error, high test error
+Evaluation of Learning Algorithms
+Performance
+Error, Accuracy, Precision
+Absolute Error
+Mean Square Error
+Number of mis-classification
